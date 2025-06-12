@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Digital interventions for increasing physical activity
+email:              emilia.isailovic@student.tugraz.at
+description:        Dissecting a metaanalysis on the effectiveness of these technologies in individuals of low socioeconomic status
+author:             Emilia Isailovic and Alisa Sinkievich
+baseurl:            ""
+url:                "https://isailovic-sinkievich.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
