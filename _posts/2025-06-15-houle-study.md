@@ -2,7 +2,8 @@
 layout: post
 title: "Study Spotlight: Houle et al. (2011)"
 subtitle: "A non-digital intervention boosting physical activity in underserved women"
-![MVPA Results](img/output.png)
+<img src="/img/output.png" alt="MVPA Results" width="600" />
+
 date: 2025-06-15
 author: Alisa Sinkievich
 ---
