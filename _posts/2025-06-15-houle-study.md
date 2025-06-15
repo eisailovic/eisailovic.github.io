@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Study Spotlight: Houle et al. (2011)"
+title: "Study Spotlight N° 1: Houle et al. (2011)"
 subtitle: "A non-digital intervention boosting physical activity in underserved women"
-<img src="/img/output.png" alt="MVPA Results" width="600" />
-
 date: 2025-06-15
 author: Alisa Sinkievich
 ---
@@ -16,6 +14,8 @@ These were held in local community centers and led by **community health workers
 
 The study included **108 participants**, of whom **70% were born outside Canada** and **75% lived below the poverty line**. Physical activity was assessed using a validated questionnaire before and after the program. 
 Participants in the **intervention group** increased their MVPA from **36 to 129 minutes per week**, while those in the **control group** improved from **25 to 73 minutes**. The **between-group difference was 44.6 minutes**, a **statistically significant** improvement (*p = 0.009*).
+
+![MVPA Results](/img/output.png)
 
 **Strengths** of the study include high retention (85%), community-based delivery, and real-world applicability. **Limitations** include reliance on self-reported PA, lack of follow-up, and absence of objective tracking tools.
 
