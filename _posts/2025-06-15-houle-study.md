@@ -2,6 +2,7 @@
 layout: post
 title: "Study Spotlight N° 1: Houle et al. (2011)"
 subtitle: "A non-digital intervention boosting physical activity in underserved women"
+background: '/img/vecteezy_a-stack-of-magazines-is-shown-in-this-photo_30749912.jpg'
 date: 2025-06-15
 author: Alisa Sinkievich
 ---
