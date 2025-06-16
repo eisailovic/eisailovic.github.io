@@ -2,7 +2,7 @@
 layout: post
 title: "Conclusion and Implications for Digital Health Equity"
 subtitle: "What the meta-analysis tells us—and what we should do next"
-date: 2025-06-18
+date: 2025-06-13
 author: Alisa Sinkievich
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Evaluating the Meta-Analysis with M.A.G.I.C."
 subtitle: "A structured quality check of digital health research"
-date: 2025-06-17
+date: 2025-06-14
 author: Alisa Sinkievich
 ---
 
