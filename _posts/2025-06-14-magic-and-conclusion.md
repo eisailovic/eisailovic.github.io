@@ -13,11 +13,14 @@ To evaluate the strength and usefulness of the meta-analysis by Max J. Western e
 
 ### Magnitude
 
-The **overall effect size** for digital interventions on physical activity was **Hedges' g = 0.22** (95% CI: 0.13–0.31), a *small* but significant effect. However, subgroup analysis revealed disparities:
+- The **overall effect size** for digital interventions was **small but significant**:  
+  **SMD = 0.14** (95% CI: 0.08 to 0.20, *p* < .001).
+- **Low SES populations** showed **negligible effects**:  
+  **SMD = 0.06** (95% CI: -0.02 to 0.13, *p* = .12) → *not significant*.
+- In contrast, **high SES participants** had a **moderate and significant effect**:  
+  **SMD = 0.34** (95% CI: 0.22 to 0.46, *p* < .001).
 
-- **High SES groups**: g = 0.24, statistically significant  
-- **Low SES groups**: g = 0.10, *not* statistically significant  
-- **Interventions with support** (e.g., coaching): g = 0.37 — the strongest effects, including for low SES groups
+> SES was a **critical moderator** of effectiveness, with digital tools benefiting high SES groups more.
 
 This suggests that digital tools alone are insufficient to reduce disparities without additional support mechanisms.
 
@@ -35,5 +38,5 @@ The research question — *Can digital tools reduce physical activity inequaliti
 
 ### Credibility
 
-The review is preregistered (PROSPERO), follows PRISMA guidelines, and applies robust statistical techniques (random-effects model, moderator analysis). That said, **heterogeneity was substantial** (I² = 65%) and **publication bias is a concern**, meaning the conclusions should be seen as suggestive rather than definitive.
+The review is preregistered (PROSPERO), follows PRISMA guidelines, and applies robust statistical techniques (random-effects model, moderator analysis). That said, **heterogeneity was substantial** and **publication bias is a concern**, meaning the conclusions should be seen as suggestive rather than definitive.
 
