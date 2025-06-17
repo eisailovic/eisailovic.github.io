@@ -9,13 +9,7 @@ author: Alisa Sinkievich
 
 ## Conclusion: Implications for Research and Stakeholders
 
-Max J. Western et al found that **digital interventions for physical activity show a small overall benefit** (Hedges’ g = 0.22), but **this benefit is not equally distributed**.
-
-- **High SES participants** benefited significantly (g = 0.24)  
-- **Low SES groups** showed **non-significant effects (g = 0.10)** unless digital tools were paired with **human support**  
-- **Supportive interventions** (e.g., coaching, community components) produced stronger effects (g = 0.37), even in low SES populations
-
-This shows a **critical equity gap** in digital public health: without inclusive design and targeted support, digital tools risk reinforcing—rather than reducing—existing health disparities.
+Max J. Western et al found that **digital interventions for physical activity show a small overall benefit**, but **this benefit is not equally distributed**. There is a **critical equity gap** in digital public health: without inclusive design and targeted support, digital tools risk reinforcing—rather than reducing—existing health disparities.
 
 ### For Researchers:
 
