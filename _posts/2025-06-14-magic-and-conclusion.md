@@ -9,7 +9,7 @@ author: Alisa Sinkievich
 
 ## Assessing Quality: The M.A.G.I.C. Criteria
 
-To evaluate the strength and usefulness of the meta-analysis by Peng et al. (2021), we applied the M.A.G.I.C. framework. This stands for **Magnitude, Articulation, Generality, Interestingness, and Credibility** - five key dimensions for assessing research quality.
+To evaluate the strength and usefulness of the meta-analysis by Max J. Western et al, we applied the M.A.G.I.C. framework. This stands for **Magnitude, Articulation, Generality, Interestingness, and Credibility** - five key dimensions for assessing research quality.
 
 ### Magnitude
 
