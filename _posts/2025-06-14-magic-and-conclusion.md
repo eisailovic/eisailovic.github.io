@@ -14,11 +14,11 @@ To evaluate the strength and usefulness of the meta-analysis by Max J. Western e
 ### Magnitude
 
 - The **overall effect size** for digital interventions was **small but significant**:  
-  **SMD = 0.14** (95% CI: 0.08 to 0.20, *p* < .001).
+  **SMD = 0.14** (95% CI: -0.08 to 0.20, *p* < .001).
 - **Low SES populations** showed **negligible effects**:  
   **SMD = 0.06** (95% CI: -0.02 to 0.13, *p* = .12) → *not significant*.
 - In contrast, **high SES participants** had a **moderate and significant effect**:  
-  **SMD = 0.34** (95% CI: 0.22 to 0.46, *p* < .001).
+  **SMD = 0.34** (95% CI: 0.22 to 0.45, *p* < .001).
 
 > SES was a **critical moderator** of effectiveness, with digital tools benefiting high SES groups more.
 
