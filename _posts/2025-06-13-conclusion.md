@@ -2,6 +2,7 @@
 layout: post
 title: "Conclusion and Implications for Digital Health Equity"
 subtitle: "What the meta-analysis tells us—and what we should do next"
+background: '/img/vecteezy_blue-yoga-mat-dumbbell-with-smart-phone_10098577.jpg'
 date: 2025-06-13
 author: Alisa Sinkievich
 ---

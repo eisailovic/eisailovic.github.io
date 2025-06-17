@@ -2,6 +2,7 @@
 layout: post
 title: "Evaluating the Meta-Analysis with M.A.G.I.C."
 subtitle: "A structured quality check of digital health research"
+background: '/img/vecteezy_human-hand-check-mark-on-paper-check-concept-through_15397816.jpg'
 date: 2025-06-14
 author: Alisa Sinkievich
 ---
