@@ -13,7 +13,13 @@ To evaluate the strength and usefulness of the meta-analysis by Peng et al. (202
 
 ### Magnitude
 
-The meta-analysis found a **small but statistically significant effect size overall** (Hedges' g ≈ 0.22). However, this average masks important disparities: **digital interventions were effective mostly among high-SES participants**, while **effects in low-SES groups were largely non-significant**—unless additional support (e.g., coaching) was included.
+The **overall effect size** for digital interventions on physical activity was **Hedges' g = 0.22** (95% CI: 0.13–0.31), a *small* but significant effect. However, subgroup analysis revealed disparities:
+
+- **High SES groups**: g = 0.24, statistically significant  
+- **Low SES groups**: g = 0.10, *not* statistically significant  
+- **Interventions with support** (e.g., coaching): g = 0.37 — the strongest effects, including for low SES groups
+
+This suggests that digital tools alone are insufficient to reduce disparities without additional support mechanisms.
 
 ### Articulation
 
