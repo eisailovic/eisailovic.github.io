@@ -9,20 +9,22 @@ author: Alisa Sinkievich
 
 ## Conclusion: Implications for Research and Stakeholders
 
-The meta-analysis by Peng et al. (2021) has a cautiously optimistic view: **digital interventions can modestly increase physical activity among low-SES populations**, especially when combined with personalized support.
+Peng et al. (2021) show that **digital interventions can promote physical activity—but mostly among higher-SES groups**. For low-SES populations, the effects were **non-significant unless personalized support was provided** (e.g., coaching, human feedback, community reinforcement).
 
-However, the findings also underscore that **tech alone is not a silver bullet**. Without attention to **accessibility, cultural tailoring, and digital literacy**, digital tools may **exacerbate rather than reduce health inequalities**.
+This finding raises a red flag: **without thoughtful design, digital tools could reinforce health inequalities**, not reduce them.
+
+However, the findings also underscore that **tech alone is not a silver bullet**. Without attention to **accessibility, cultural tailoring, and digital literacy**, digital tools may not be useful.
 
 ### For Researchers:
 
-- Focus on inclusive design and long-term outcomes  
-- Report SES details transparently in future studies  
-- Include more studies from low- and middle-income settings  
+- Increase the representation of **low-SES populations** in future studies  
+- Test **combined interventions** (tech + human support) more explicitly  
+- Standardize SES reporting and consider intersectional barriers (e.g., age, language)
 
 ### For Designers & Policymakers:
 
-- Pair apps with community-based support  
-- Ensure low-bandwidth and multilingual access  
-- Prioritize user-centered design for underserved groups  
+- Ensure **tech is not the only layer of the intervention**—add community or coaching elements  
+- Design with **accessibility, literacy, and device barriers** in mind  
+- Avoid “solutionist” thinking—**good tech still needs good context**
 
 > In short: digital health tools hold promise - but only if **equity is built into the design** from the start!
