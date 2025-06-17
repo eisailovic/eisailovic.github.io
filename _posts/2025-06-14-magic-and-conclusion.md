@@ -13,20 +13,21 @@ To evaluate the strength and usefulness of the meta-analysis by Peng et al. (202
 
 ### Magnitude
 
-The meta-analysis found a **small to moderate effect size** (Hedges' g = 0.25) for digital interventions in promoting physical activity in low-SES populations. While this effect may seem modest, it is meaningful in public health contexts, particularly given the scalability of digital tools.
+The meta-analysis found a **small but statistically significant effect size overall** (Hedges' g ≈ 0.22). However, this average masks important disparities: **digital interventions were effective mostly among high-SES participants**, while **effects in low-SES groups were largely non-significant**—unless additional support (e.g., coaching) was included.
 
 ### Articulation
 
-The study is **well-structured and clearly written**. It outlines inclusion criteria, defines SES consistently, and separates results by subgroup (e.g., intervention type, support level). The search strategy and PRISMA flowchart are transparent.
+The study is **well-structured and clearly written**. It outlines inclusion criteria, defines SES with operational clarity, and uses subgroup analyses to examine support level, SES category, and intervention type. The use of a PRISMA diagram and risk of bias tables increases transparency.
 
 ### Generality
 
-Although focused on low-SES populations, the review includes **studies across multiple countries, age groups, and intervention types**. However, its generalizability is limited by the fact that most included studies came from high-income countries, and digital literacy was often assumed.
+While the review draws from studies across multiple countries and populations, the **majority of included studies are from high-income, high-SES contexts**. Low-SES populations are underrepresented, and results for them are more variable and less generalizable.
 
 ### Interestingness
 
-The question—*Can digital health tools reduce inequality in physical activity?*—is **timely and highly relevant**. It engages multiple audiences: public health professionals, app developers, and policymakers concerned with health equity.
+The research question — *Can digital tools reduce physical activity inequalities?* is relevant. It ties into major global health goals and debates around digital inclusion, public health, and socioeconomic disparities.
 
 ### Credibility
 
-The authors used rigorous meta-analytic procedures: they preregistered the protocol (PROSPERO), conducted risk of bias assessments, and ran moderator analyses. Still, the **risk of publication bias** and heterogeneity among studies (I² = 65%) suggest the conclusions should be interpreted with some caution.
+The review is preregistered (PROSPERO), follows PRISMA guidelines, and applies robust statistical techniques (random-effects model, moderator analysis). That said, **heterogeneity was substantial** (I² = 65%) and **publication bias is a concern**, meaning the conclusions should be seen as suggestive rather than definitive.
+
