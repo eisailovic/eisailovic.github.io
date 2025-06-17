@@ -13,8 +13,7 @@ To evaluate the strength and usefulness of the meta-analysis by Max J. Western e
 
 ### Magnitude
 
-- The **overall effect size** for digital interventions was **small but significant**:  
-  **SMD = 0.14** (95% CI: 0.08 to 0.20, *p* < .001).
+- Overall, digital interventions had a **small positive effect on physical activity** (SMD = 0.14, 95% CI 0.08 to 0.20, p < 0.001)
 - **Low SES populations** showed **negligible effects**:  
   **SMD = 0.06** (95% CI: -0.02 to 0.13, *p* = .12) → *not significant*.
 - In contrast, **high SES participants** had a **moderate and significant effect**:  
