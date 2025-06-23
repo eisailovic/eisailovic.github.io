@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Alisa Sinkievich: Study Spotlight N° 2: Houle et al. (2011)"
-subtitle: "A non-digital intervention boosting physical activity in underserved women"
+title: "Study Spotlight N° 2: Houle et al. (2011)"
+subtitle: "Author: Alisa Sinkievich"
 background: '/img/vecteezy_a-stack-of-magazines-is-shown-in-this-photo_30749912.JPG'
 date: 2025-06-12
 author: Alisa Sinkievich
 ---
 
-The study by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0738399111001844">**Houle et al. (2011)**</a> examined the impact of a **community-based physical activity intervention** designed for **low-income and immigrant women** in Montréal, Canada. 
+The study <i>A non-digital intervention boosting physical activity in underserved women</i> by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0738399111001844">**Houle et al. (2011)**</a> examined the impact of a **community-based physical activity intervention** designed for **low-income and immigrant women** in Montréal, Canada. 
 This randomized controlled trial aimed to improve participants’ **moderate-to-vigorous physical activity (MVPA)** through a 12-week program that combined **in-person exercise sessions** and **health empowerment workshops**.
 
 In the **intervention group**, women participated in weekly **60–90 minute sessions** that included activities like **Zumba, walking, and dance**, alongside group workshops on **nutrition and body image**. 
