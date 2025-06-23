@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Study Spotlight N° 2: Houle et al. (2011)"
+title: "Alisa Sinkievich: Study Spotlight N° 2: Houle et al. (2011)"
 subtitle: "A non-digital intervention boosting physical activity in underserved women"
 background: '/img/vecteezy_a-stack-of-magazines-is-shown-in-this-photo_30749912.JPG'
 date: 2025-06-12
